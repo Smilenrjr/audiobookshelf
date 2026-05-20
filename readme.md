@@ -15,6 +15,7 @@
 # About
 
 Audiobookshelf is a self-hosted audiobook and podcast server.
+<b> This fork in particular allows for vertical scrolling of EPubs and PDFs. </b>
 
 ### Features
 

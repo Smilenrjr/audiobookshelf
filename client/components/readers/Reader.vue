@@ -8,7 +8,7 @@
         <span class="material-symbols text-1.5xl">settings</span>
       </button>
     </div>
-
+<!--
     <div class="absolute top-4 left-1/2 transform -translate-x-1/2">
       <h1 :data-type="ebookType" class="text-lg sm:text-xl md:text-2xl mb-1 data-[type=comic]:hidden" style="line-height: 1.15; font-weight: 100">
         <span style="font-weight: 600">{{ abTitle }}</span>
@@ -16,7 +16,7 @@
         <span v-if="abAuthor" class="hidden md:inline">{{ abAuthor }}</span>
       </h1>
     </div>
-
+-->
     <div class="absolute top-4 right-4 z-20">
       <button @click="close" type="button" aria-label="Close ereader" class="inline-flex opacity-80 hover:opacity-100">
         <span class="material-symbols text-2xl">close</span>
